@@ -1,0 +1,285 @@
+[
+  {
+    "type": "INFJ",
+    "color": "#33a474",
+    "full_name": "Introverted Intuitive Feeling Judging",
+    "description": "INFJ là những người lý tưởng, sâu sắc và có tầm nhìn xa. Họ kết hợp giữa trực giác nhạy bén và lòng đồng cảm mạnh mẽ, thường bị thôi thúc bởi khát vọng tạo ra tác động tích cực trong thế giới – dù qua sáng tạo, giáo dục hay hỗ trợ người khác. Họ hiểu rõ cảm xúc và động lực của con người, nhưng lại chọn lọc khi chia sẻ suy nghĩ cá nhân, vì bản tính hướng nội và kín đáo.",
+    "strength": "INFJ có khả năng kết nối cảm xúc sâu sắc, thường đóng vai trò là người lắng nghe và hướng dẫn đầy thấu hiểu. Tư duy lý tưởng và lòng kiên định giúp họ theo đuổi những mục tiêu lớn, mang lại sự thay đổi bền vững cho cá nhân và cộng đồng. Họ có tổ chức, quyết đoán khi làm việc vì điều mình tin tưởng và thường truyền cảm hứng cho người khác bằng chính cách sống của mình.",
+    "weakness": "INFJ cũng dễ rơi vào cái bẫy của sự cầu toàn. Họ đặt ra kỳ vọng cao cho bản thân và người khác, từ đó dễ mệt mỏi, kiệt sức nếu không biết dừng lại đúng lúc. Họ thường khó chia sẻ nhu cầu riêng, dẫn đến cảm giác bị hiểu lầm. Khi quá tập trung vào lý tưởng, INFJ có thể bỏ qua các yếu tố thực tế và nhu cầu hiện tại.",
+    "specialty": "INFJ có khả năng khơi gợi tiềm năng trong người khác, giúp họ phát triển theo hướng tích cực. Với niềm tin mạnh mẽ vào lòng tốt và sự phát triển con người, họ thường là người truyền cảm hứng thầm lặng nhưng bền bỉ, có sức ảnh hưởng lớn trong môi trường xung quanh.",
+    "career": "INFJ thường tìm kiếm những nghề mang tính nhân văn – nơi họ có thể tạo ra sự thay đổi thực sự, như tâm lý học, giáo dục, nghệ thuật, tư vấn hoặc công tác xã hội. Họ thích làm việc độc lập nhưng cũng cần cộng tác với những người cùng chí hướng. Ngược lại, họ có thể thấy khó thích nghi với môi trường cạnh tranh cao hoặc thiếu mục đích rõ ràng.",
+    "challenge": "Thách thức lớn nhất của INFJ là giữ được sự cân bằng giữa việc giúp đỡ người khác và chăm sóc bản thân. Họ thường ưu tiên người khác đến mức lãng quên chính mình. Việc học cách đặt ra ranh giới rõ ràng và quan tâm đến cảm xúc cá nhân là điều quan trọng để duy trì sự ổn định lâu dài.",
+    "group_role": "INFJ là người âm thầm quan sát nhưng đóng góp sâu sắc. Họ hiểu nhanh những căng thẳng chưa được nói ra và thường đóng vai trò hòa giải. Họ không thích các cuộc trò chuyện hời hợt mà ưa sự kết nối ý nghĩa, cá nhân. Với tư duy định hướng tương lai, họ có thể dẫn dắt nhóm một cách tinh tế và truyền cảm hứng cho người khác.",
+    "concern": "INFJ hay nghĩ nhiều về hạnh phúc của người thân và sự kết nối trong các mối quan hệ. Họ dễ trăn trở về việc liệu mình có đang sống đúng với lý tưởng, có đủ đóng góp hay không. Sự nhạy cảm khiến họ sợ làm tổn thương người khác và có thể cảm thấy thất vọng nếu không được thấu hiểu hoặc nếu thế giới không tiến triển theo điều họ mong đợi.",
+    "famous_people": [
+      "Nelson Mandela",
+      "Carl Jung",
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "type": "INTJ",
+    "color": "#88619a",
+    "full_name": "Introverted Intuitive Thinking Judging",
+    "description": "INTJ là những người có tư duy chiến lược, độc lập và định hướng dài hạn. Họ kết hợp giữa trực giác và logic để hiểu các hệ thống phức tạp và xây dựng giải pháp sáng tạo. Dù kín đáo, họ thường có ảnh hưởng lớn nhờ quyết tâm và khả năng nhìn xa trông rộng. INTJ tự tin trong việc đưa ra quyết định và thường là nhà lãnh đạo bẩm sinh, dù không giỏi thể hiện cảm xúc một cách nồng hậu.",
+    "strength": "INTJ nổi bật với khả năng phân tích sắc bén, giải quyết vấn đề và lập kế hoạch hiệu quả. Họ có xu hướng làm việc độc lập, thích hợp tác với những người thông minh, có cùng chí hướng. Với trí tuệ và sự tập trung, họ dễ dàng nhìn ra mô hình, xu hướng và phát triển lộ trình rõ ràng để đạt được mục tiêu lớn. Sự tò mò và đam mê học hỏi cũng thúc đẩy họ không ngừng khám phá và cải tiến.",
+    "weakness": "INTJ có thể tỏ ra lạnh lùng, xa cách do ưu tiên lý trí hơn cảm xúc. Họ đặt tiêu chuẩn cao, dễ trở nên chỉ trích hoặc không kiên nhẫn với sự kém hiệu quả. Việc chia sẻ cảm xúc hay chấp nhận giúp đỡ từ người khác có thể là điểm yếu, vì họ thường muốn tự giải quyết mọi thứ. Đôi khi, họ quá tập trung vào tương lai mà bỏ lỡ trải nghiệm hiện tại.",
+    "specialty": "INTJ có khả năng xây dựng các hệ thống tối ưu, lập kế hoạch chiến lược và nhìn ra cơ hội mà người khác không nhận thấy. Họ giỏi trong việc đơn giản hóa tình huống phức tạp, cải thiện hiệu suất và nâng cao hiệu quả cả trong công việc lẫn cuộc sống cá nhân.",
+    "career": "INTJ thường phù hợp với các lĩnh vực cần phân tích sâu và tư duy logic như khoa học, công nghệ, kỹ thuật, luật hoặc kinh doanh. Họ thích làm việc trong môi trường có tính thách thức và trí tuệ, nơi họ có thể triển khai tầm nhìn của mình. Ngược lại, họ không thoải mái trong môi trường nhiều cảm xúc, thiếu cấu trúc hoặc quá quan liêu.",
+    "challenge": "INTJ thường gặp khó khăn trong việc mở lòng và tin tưởng người khác. Họ thoải mái hơn với không gian trí tuệ hơn là cảm xúc, điều này có thể khiến họ cảm thấy lạc lõng trong các mối quan hệ gần gũi. Để phát triển bền vững, họ cần học cách kết nối cảm xúc, thiết lập sự tin tưởng và cho phép người khác hiểu được nội tâm của mình.",
+    "group_role": "INTJ thường là người quan sát thầm lặng nhưng đầy phân tích. Họ nhanh chóng xác định điểm yếu của hệ thống và đề xuất giải pháp chiến lược. Mặc dù không hứng thú với giao tiếp xã hội quá nhiều, họ đóng vai trò quan trọng trong việc định hướng và lãnh đạo. Tuy nhiên, họ có thể khó hòa hợp với những người thiên về cảm xúc và ít chú trọng kết quả.",
+    "concern": "INTJ thường trăn trở về việc chưa đạt được mục tiêu hoặc chưa tận dụng tốt thời gian. Họ sợ bị lãng phí tiềm năng, mất kiểm soát, hoặc bị đánh giá thấp. Ngoài ra, trong các mối quan hệ, họ cũng có thể lo lắng về sự không tương thích trí tuệ hoặc giá trị với người thân cận.",
+    "famous_people": [
+      "Isaac Newton",
+      "Elon Musk",
+      "Hillary Clinton"
+    ]
+  },
+  {
+    "type": "INFP",
+    "color": "#33a474",
+    "full_name": "Introverted Intuitive Feeling Perceiving",
+    "description": "INFP là những người mơ mộng và lý tưởng, giàu lòng trắc ẩn và sống theo giá trị cá nhân sâu sắc. Họ hướng nội và thường tìm kiếm ý nghĩa trong cuộc sống thông qua sáng tạo hoặc giúp đỡ người khác. Với trí tưởng tượng phong phú, họ nhìn thế giới như một nơi đầy khả năng, dù đôi khi có thể gặp khó khăn khi đối mặt với thực tế. Họ chân thành, ấm áp và nhạy cảm với cảm xúc của người khác, nhưng cũng dễ bị tổn thương khi bị phê bình.",
+    "strength": "INFP có sự đồng cảm tự nhiên và thường sống đúng với niềm tin của mình. Họ sáng tạo, yêu thích nghệ thuật và thường bộc lộ cảm xúc qua viết lách, âm nhạc hay các hình thức thể hiện cá nhân khác. Là người lắng nghe tốt và đầy thấu hiểu, họ luôn tìm cách hỗ trợ những ai đang cần sự an ủi. Tinh thần lý tưởng của họ truyền cảm hứng cho người khác, và sự chân thành trong hành động giúp họ gắn kết sâu sắc với các mục đích mà họ tin tưởng.",
+    "weakness": "INFP dễ bị ảnh hưởng bởi cảm xúc và thất vọng nếu thực tế không đúng như kỳ vọng. Họ có xu hướng đặt nhu cầu người khác lên trên bản thân, dẫn đến kiệt sức hoặc cảm giác bị bỏ quên. Bản tính hướng nội khiến họ có thể rơi vào trạng thái tự nghi ngờ, và đôi khi trở nên khép kín khi cảm thấy môi trường xung quanh thiếu chân thực. Họ cũng có thể gặp khó khăn trong việc thỏa hiệp nếu cảm thấy điều đó làm lệch khỏi các giá trị nội tâm.",
+    "specialty": "INFP mang đến những giải pháp sáng tạo và đầy cảm xúc trong các tình huống cần sự thấu hiểu. Họ có khả năng tạo ra không gian an toàn và khuyến khích người khác bộc lộ bản thân. Dù là qua nghệ thuật, tư vấn hay hoạt động xã hội, họ luôn truyền cảm hứng bằng sự chân thành và đồng cảm đặc trưng của mình.",
+    "career": "INFP phù hợp với các nghề cho phép họ sống thật và tạo ra ảnh hưởng tích cực như viết, giảng dạy, nghệ thuật, tư vấn hay công tác xã hội. Họ tìm kiếm những vai trò mang ý nghĩa sâu sắc và cho phép họ làm việc độc lập hoặc trong môi trường thân thiện, ít mang tính áp đặt. Tuy vậy, họ có thể không phù hợp với công việc quá rập khuôn, quan liêu hoặc không phản ánh các giá trị mà họ trân trọng.",
+    "challenge": "Thách thức lớn nhất của INFP là biến lý tưởng thành hành động cụ thể mà không đánh mất tính chân thực. Họ thường chần chừ khi phải hành động nếu cảm thấy điều đó làm thay đổi ý định ban đầu. Học cách kết hợp giữa lý tưởng và thực tế sẽ giúp họ thực hiện được những mục tiêu lớn một cách bền vững và hiệu quả hơn.",
+    "group_role": "INFP đóng vai trò là người lắng nghe chu đáo và kết nối dựa trên giá trị và cảm xúc. Họ thích tạo ra sự hòa hợp và thường là người trung gian giúp các thành viên thấu hiểu nhau hơn. Mặc dù ban đầu có thể dè dặt, họ sẽ cống hiến nhiều hơn khi cảm thấy môi trường nhóm phù hợp với lý tưởng cá nhân. Họ không thích xung đột và có thể lùi bước trong môi trường quá áp lực hoặc thiếu chân thành, nhưng sự đóng góp của họ thường âm thầm và sâu sắc.",
+    "concern": "INFP dễ lo sợ rằng mình không sống đúng với lý tưởng, không tạo được ảnh hưởng tích cực hoặc bị hiểu lầm vì con người thật của mình. Họ thường cảm thấy cô đơn nếu không được đón nhận trọn vẹn và rất nhạy cảm với việc bị từ chối. Trong các mối quan hệ, họ cũng lo ngại việc không thể bộc lộ cảm xúc hoặc làm tổn thương người khác, ngay cả khi không cố ý.",
+    "famous_people": [
+      "William Shakespeare"
+    ]
+  },
+  {
+    "type": "INTP",
+    "color": "#88619a",
+    "full_name": "Introverted Intuitive Thinking Perceiving",
+    "description": "INTP là những người yêu thích tư duy trừu tượng, phân tích và khám phá kiến thức. Họ đắm mình trong các ý tưởng, thường dành thời gian suy ngẫm về các giả thuyết, hệ thống và nguyên lý sâu sắc. Mặc dù có xu hướng kín đáo, thế giới nội tâm của họ rất phong phú và đầy sáng tạo. Họ coi trọng sự độc lập trí tuệ, luôn tìm kiếm sự đổi mới, và thường hoài nghi với truyền thống nếu không thấy hợp lý.",
+    "strength": "INTP nổi bật nhờ khả năng phân tích sắc bén, tư duy phản biện và tinh thần khám phá. Họ giỏi đánh giá các tình huống một cách khách quan, không bị chi phối bởi cảm xúc. Sự linh hoạt trong tư duy cho phép họ liên tục điều chỉnh ý tưởng, tìm kiếm giải pháp mới và đóng góp góc nhìn độc đáo trong các cuộc thảo luận. Khả năng sáng tạo của họ thường thể hiện ở việc đưa ra các lý thuyết mới hoặc hiểu thấu các vấn đề phức tạp.",
+    "weakness": "INTP dễ rơi vào bẫy suy nghĩ quá mức, dẫn đến chần chừ hoặc thiếu hành động cụ thể. Họ thường ưu tiên lý thuyết hơn thực tế, và có thể lơ là các khía cạnh xã hội hoặc cảm xúc. Sự đề cao tự do cá nhân khiến họ ít thích cấu trúc cứng nhắc, điều này đôi khi dẫn đến thiếu tổ chức. Ngoài ra, họ có thể bị hiểu lầm là lạnh lùng hoặc xa cách vì thường giao tiếp qua lý trí hơn cảm xúc.",
+    "specialty": "INTP có khả năng nhìn vấn đề từ những góc độ bất ngờ và tạo ra các giải pháp sáng tạo. Họ tư duy logic sâu sắc và giỏi hình dung các hệ thống trừu tượng. Khả năng đặt câu hỏi, phân tích và sáng tạo của họ rất phù hợp với các lĩnh vực đòi hỏi phát kiến mới, từ khoa học đến công nghệ hoặc triết học. Những phẩm chất này giúp họ trở thành những người tiên phong trong các ý tưởng đổi mới.",
+    "career": "INTP phù hợp với các lĩnh vực học thuật, nghiên cứu, công nghệ, phân tích hệ thống, kỹ thuật, và đôi khi cả viết lách hoặc triết học. Họ làm việc tốt nhất khi được tự chủ, có không gian sáng tạo và được thử thách trí tuệ. Tuy nhiên, họ có thể cảm thấy gò bó trong những công việc mang tính lặp lại, đòi hỏi nhiều thủ tục hành chính, hoặc yêu cầu giao tiếp xã hội quá thường xuyên.",
+    "challenge": "Một trong những khó khăn lớn nhất của INTP là duy trì cam kết lâu dài với một ý tưởng hay mục tiêu. Họ thường bị cuốn vào sự hứng thú với điều mới, bỏ dở những kế hoạch dang dở. Việc duy trì động lực và hoàn thành dự án từ đầu đến cuối đòi hỏi họ phải nỗ lực vượt qua xu hướng tự nhiên là 'thử nghiệm trí tuệ' hơn là 'hành động thực tiễn'.",
+    "group_role": "INTP là người đóng góp thầm lặng nhưng sắc sảo, thường đưa ra góc nhìn độc đáo hoặc giải pháp sáng tạo. Họ thường quan sát và phân tích trước khi phát biểu, đảm bảo rằng ý kiến của mình có căn cứ vững chắc. Tuy không hứng thú với các yếu tố xã hội hoặc cảm xúc nhóm, họ lại có khả năng đặt câu hỏi quan trọng và khơi dậy suy nghĩ sâu sắc cho cả nhóm. Dù không phải người dẫn đầu tự nhiên, họ vẫn có thể truyền cảm hứng bằng trí tuệ và sự độc lập trong tư duy.",
+    "concern": "INTP thường lo ngại rằng mình không đủ thông minh, hiểu chưa đủ hoặc sẽ mắc sai sót trong phân tích. Họ dễ cảm thấy bức bối nếu bị ép buộc vào khuôn khổ hoặc bị hạn chế khả năng khám phá ý tưởng mới. Họ cũng lo về việc không truyền đạt được suy nghĩ phức tạp của mình, đặc biệt là trong những tình huống đòi hỏi cảm xúc hay sự rõ ràng ngắn gọn. Sự mâu thuẫn giữa trí tuệ mạnh và cảm xúc chưa được xử lý đôi khi là nguồn gốc của căng thẳng nội tâm.",
+    "famous_people": [
+      "Albert Einstein",
+      "Marie Curie",
+      "Bill Gates"
+    ]
+  },
+  {
+    "type": "ISFP",
+    "color": "#e4ae3a",
+    "full_name": "Introverted Sensing Feeling Perceiving",
+    "description": "ISFP là những người sống chân thành, sáng tạo và hòa hợp. Họ rất nhạy cảm với cái đẹp, thường tìm thấy niềm vui trong nghệ thuật, thiên nhiên và những trải nghiệm mang tính cá nhân. Họ sống tự phát, linh hoạt và tránh xung đột, luôn cố gắng duy trì sự bình yên trong các mối quan hệ. Dù có vẻ dè dặt, ISFP rất ấm áp với những người họ tin tưởng và luôn bảo vệ các giá trị của mình một cách âm thầm nhưng kiên định.",
+    "strength": "ISFP nổi bật bởi khả năng cảm thụ và thể hiện nghệ thuật, cùng với lòng trắc ẩn và sự đồng cảm sâu sắc. Họ lắng nghe giỏi, luôn sẵn sàng giúp đỡ người khác và rất cởi mở với những trải nghiệm mới. Họ cũng rất coi trọng sự chân thực, cả trong cảm xúc lẫn cách sống, và thường lan tỏa cảm giác dễ chịu, nhẹ nhàng cho những người xung quanh.",
+    "weakness": "ISFP cũng dễ bị tổn thương do quá nhạy cảm và thường tránh né đối đầu. Họ có thể khó đưa ra quyết định hoặc diễn đạt cảm xúc một cách rõ ràng, dẫn đến hiểu lầm trong các mối quan hệ. Tính linh hoạt đôi khi khiến họ thay đổi hướng đi một cách thiếu nhất quán, và sự tránh né xung đột có thể khiến họ kìm nén cảm xúc quá lâu.",
+    "specialty": "ISFP có khả năng đặc biệt trong việc biến cảm xúc thành những biểu đạt nghệ thuật mang tính lay động. Họ có con mắt thẩm mỹ tinh tế và thường truyền cảm hứng cho người khác qua cách sống đơn giản, tinh tế và sâu sắc. Khả năng kết nối với cái đẹp và con người giúp họ tạo ra ảnh hưởng lặng lẽ nhưng sâu rộng.",
+    "career": "ISFP thường tìm đến những nghề nghiệp cho phép họ thể hiện bản thân và tạo ra giá trị theo cách riêng, chẳng hạn như nghệ thuật, thiết kế, chăm sóc sức khỏe, tư vấn hoặc công tác xã hội. Họ thích làm việc độc lập hoặc trong môi trường linh hoạt, nơi họ có thể cảm thấy tự do và trung thực với chính mình. Ngược lại, họ có thể không thoải mái trong các công việc quá cứng nhắc hoặc thiếu không gian sáng tạo.",
+    "challenge": "ISFP thường gặp khó khăn khi phải đối mặt với xung đột trực tiếp hoặc bày tỏ nhu cầu cá nhân trong các tình huống căng thẳng. Sự kìm nén cảm xúc và mong muốn giữ hòa khí đôi khi khiến họ phải hy sinh bản thân mà không nói ra, từ đó tích tụ cảm giác căng thẳng hoặc thất vọng nội tâm.",
+    "group_role": "ISFP là những người nhẹ nhàng, chu đáo, đóng góp bằng hành động hơn lời nói. Họ thường nâng cao bầu không khí cảm xúc và thẩm mỹ của nhóm, truyền cảm hứng thông qua sự sáng tạo và sự hiện diện điềm đạm. Dù kín đáo và không thích sự chú ý, họ mang lại chiều sâu và sự chân thành cho các tương tác, và phát huy tốt nhất khi được làm việc theo nhịp độ và phong cách cá nhân của mình.",
+    "concern": "ISFP thường sợ không được sống đúng với bản chất thật hoặc bị hiểu lầm trong cách thể hiện. Họ dễ lo lắng nếu không có đủ không gian để theo đuổi đam mê, hoặc bị ràng buộc bởi những kỳ vọng đi ngược với giá trị cá nhân. Ngoài ra, họ cũng lo cho người thân một cách âm thầm, đôi khi đến mức quên mất nhu cầu và giới hạn của chính mình.",
+    "famous_people": [
+      "Vincent van Gogh",
+      "Bob Dylan"
+    ]
+  },
+  {
+    "type": "ISTP",
+    "color": "#4298b4",
+    "full_name": "Introverted Sensing Thinking Perceiving",
+    "description": "ISTP là những cá nhân thực tế, độc lập và đầy tò mò, nổi bật với khả năng xử lý tình huống nhanh và thiên hướng hành động. Họ học hỏi thông qua trải nghiệm trực tiếp và thường tìm hiểu thế giới bằng cách khám phá cơ chế của mọi thứ. Dù kín đáo và có phần bí ẩn, họ lại rất linh hoạt, thích phiêu lưu, sẵn sàng đón nhận rủi ro và thường đưa ra các giải pháp độc đáo cho những vấn đề khó lường.",
+    "strength": "ISTP sở hữu tư duy phân tích sắc bén, bản năng thực hành giỏi và khả năng phản ứng linh hoạt trước thay đổi. Họ rất tháo vát, giỏi sửa chữa và tìm cách cải thiện hệ thống một cách nhanh chóng và chính xác. Sự bình tĩnh của họ khi đối diện với áp lực giúp họ đưa ra quyết định hiệu quả trong tình huống khẩn cấp. ISTP cũng có tinh thần tự do mạnh mẽ, thường làm việc tốt nhất khi được tự do khám phá theo nhịp độ riêng và không bị gò bó bởi quy tắc cứng nhắc.",
+    "weakness": "ISTP có thể trở nên bốc đồng và thiếu kiên nhẫn với những tình huống cần cảm xúc hoặc sự cam kết dài hạn. Xu hướng sống trong hiện tại khiến ISTP khó lập kế hoạch cho tương lai hoặc theo đuổi các mục tiêu lâu dài. Họ có thể khép kín, né tránh các cuộc trò chuyện sâu sắc, và dễ bị hiểu lầm là lạnh lùng. Ngoài ra, họ không thích bị kiểm soát hoặc phụ thuộc vào người khác, điều này đôi khi cản trở sự hợp tác trong công việc nhóm hoặc các mối quan hệ cá nhân.",
+    "specialty": "ISTP có tài năng tự nhiên trong việc xử lý các tình huống thực tế và kỹ thuật. Họ thường là người 'sửa chữa mọi thứ' nhờ vào tư duy phản biện và khả năng áp dụng logic vào thực tiễn. Dù không phải người ưa nói nhiều, nhưng cách họ hành động hiệu quả và chính xác khiến họ trở thành điểm tựa đáng tin cậy trong những tình huống cần hành động nhanh hoặc xử lý khủng hoảng. Khả năng thích nghi với môi trường mới cũng là một điểm mạnh nổi bật của họ.",
+    "career": "ISTP phát triển tốt nhất ở những ngành cho phép họ sử dụng tay nghề, tư duy kỹ thuật và hành động trực tiếp như cơ khí, kỹ sư, kỹ thuật viên, IT, hoặc các lĩnh vực yêu cầu khắc phục sự cố. Họ ưa thích những công việc độc lập, ít quy tắc cứng nhắc, và có thể gặp khó khăn nếu bị ràng buộc bởi nhiệm vụ lặp lại hay môi trường quá xã giao. Họ cảm thấy hài lòng nhất khi được làm việc thực tế, thấy ngay kết quả và có sự tự do trong cách tiếp cận vấn đề.",
+    "challenge": "Thử thách đối với ISTP là khả năng cam kết với những dự án dài hạn, cũng như xử lý các vấn đề liên quan đến cảm xúc. Họ có xu hướng né tránh các tình huống đòi hỏi phải bày tỏ tình cảm hoặc chia sẻ nội tâm. Khi cảm thấy bị ràng buộc hoặc quá gò bó, họ dễ đánh mất động lực và từ bỏ trước khi hoàn thành. Học cách kiên trì và điều chỉnh mối quan hệ cảm xúc có thể giúp ISTP cân bằng hơn giữa hiệu quả và kết nối con người.",
+    "group_role": "ISTP thường giữ vai trò hậu thuẫn kỹ thuật hoặc người giải quyết vấn đề nhanh. Họ ít nói nhưng quan sát kỹ, thường chỉ hành động khi thật sự cần thiết, nhưng luôn hiệu quả. Họ không mấy hứng thú với vai trò xã giao hay chính trị trong nhóm mà tập trung vào việc 'hoàn thành việc đúng cách'. Dù không tìm kiếm sự nổi bật, nhưng họ thường được đánh giá cao nhờ sự điềm tĩnh, đáng tin và khả năng ứng phó nhanh trong tình huống khó khăn.",
+    "concern": "ISTP lo sợ việc mất tự do cá nhân hoặc bị ép buộc vào các khuôn mẫu không phù hợp với bản chất linh hoạt của mình. Họ lo ngại việc bị gắn bó lâu dài với điều gì đó làm mất đi khả năng khám phá, hoặc không thể xử lý vấn đề theo cách riêng. Ngoài ra, họ có thể lo lắng về việc bị hiểu lầm là thờ ơ, đặc biệt khi họ không diễn đạt cảm xúc rõ ràng. Nỗi sợ bị mắc kẹt trong những công việc lặp đi lặp lại, thiếu thách thức cũng khiến họ dễ chán nản hoặc mất phương hướng.",
+    "famous_people": [
+      "Steve Jobs",
+      "Amelia Earhart"
+    ]
+  },
+  {
+    "type": "ISFJ",
+    "color": "#e4ae3a",
+    "full_name": "Introverted Sensing Feeling Judging",
+    "description": "ISFJ là những người chăm sóc âm thầm, tận tụy và giàu lòng trắc ẩn. Họ sống vì sự ổn định, truyền thống và sự an toàn cho những người xung quanh. Với tinh thần trách nhiệm cao và trái tim giàu cảm xúc, họ chú ý đến những điều nhỏ nhặt và luôn âm thầm hỗ trợ người khác một cách chu đáo. Họ thường không thích làm tâm điểm, nhưng lại là trụ cột âm thầm trong gia đình, nhóm hoặc tổ chức.",
+    "strength": "ISFJ rất ấm áp, nhẫn nại và tinh ý. Họ có khả năng chăm sóc và quan tâm đến người khác một cách nhẹ nhàng, không phô trương. Họ tỉ mỉ, có trách nhiệm và luôn duy trì sự ổn định, từ trong công việc đến các mối quan hệ. Họ là người bạn và cộng sự đáng tin cậy, thường nhận phần việc thầm lặng để mọi thứ suôn sẻ.",
+    "weakness": "Vì quá tận tụy, ISFJ thường quên chăm sóc bản thân và dễ bị kiệt sức. Họ né tránh xung đột và có thể không dám nói ra sự thật để giữ hòa khí. Sự nhạy cảm khiến họ dễ bị tổn thương trước lời chê hoặc phê bình, và đôi khi họ có thể quá cố chấp với cách làm quen thuộc, ít thích nghi với thay đổi.",
+    "specialty": "ISFJ có khả năng chăm sóc và tổ chức tuyệt vời. Họ thường là người 'nhìn thấy điều người khác bỏ qua' – từ cảm xúc thầm kín của người thân đến các chi tiết nhỏ trong công việc. Họ rất giỏi tạo ra môi trường ấm áp, an toàn, và thường là người giữ cho cộng đồng hoặc nhóm vận hành bền vững trong thời gian dài.",
+    "career": "ISFJ thường phù hợp với các nghề đòi hỏi chăm sóc, hỗ trợ và chú ý đến con người như: điều dưỡng, giáo viên, nhân viên xã hội, hành chính, dịch vụ khách hàng. Họ thích môi trường ổn định, có quy tắc rõ ràng, nơi họ có thể làm điều tốt mỗi ngày mà không bị cuốn vào sự hỗn loạn hoặc thay đổi liên tục.",
+    "challenge": "Đối với ISFJ, việc học cách nói 'không' và đặt bản thân lên trước là điều khó khăn. Họ thường cho đi quá nhiều đến mức kiệt quệ. Nếu không học cách đặt ranh giới, họ dễ cảm thấy bị lợi dụng hoặc tổn thương mà không thể chia sẻ. Giữ thăng bằng giữa cho đi và tự chăm sóc bản thân là một kỹ năng quan trọng với họ.",
+    "group_role": "ISFJ là người giữ nền tảng và sự ổn định trong nhóm. Họ không thích thể hiện nhưng luôn sẵn sàng giúp đỡ – từ nhắc lịch, chuẩn bị hậu cần đến xoa dịu căng thẳng giữa các thành viên. Họ lắng nghe, hòa giải, và giữ cho môi trường nhóm trở nên êm ấm, hiệu quả. Dù không phô trương, họ thường là 'hậu phương vững chắc' cho cả nhóm.",
+    "concern": "ISFJ hay lo rằng mình chưa làm đủ cho người khác, hoặc khiến ai đó thất vọng. Họ cũng sợ bị phớt lờ, không được công nhận vì những cống hiến âm thầm của mình. Ngoài ra, họ lo sợ xung đột, thay đổi quá đột ngột và cảm giác không còn kiểm soát được môi trường xung quanh mình.",
+    "famous_people": [
+      "Queen Elizabeth II",
+      "Vin Diesel",
+      "Selena Gomez"
+    ]
+  },
+  {
+    "type": "ISTJ",
+    "color": "#4298b4",
+    "full_name": "Introverted Sensing Thinking Judging",
+    "description": "ISTJ là người sống thực tế, đáng tin cậy và có trách nhiệm cao. Họ ưa thích trật tự, hệ thống rõ ràng và có xu hướng duy trì các chuẩn mực đã có. Với sự kiên định và phương pháp làm việc chặt chẽ, họ là những người thường xuyên đảm nhận các vai trò ổn định, đáng tin trong tổ chức hoặc cộng đồng.",
+    "strength": "ISTJ nổi bật ở khả năng tổ chức, chú trọng chi tiết và làm việc có kế hoạch. Họ trung thành, tận tụy và luôn hoàn thành nhiệm vụ đúng chuẩn. Tuy nhiên, việc quá đề cao quy tắc đôi khi khiến họ cứng nhắc, khó tiếp nhận quan điểm mới hoặc chấp nhận sai sót, đặc biệt khi mọi việc không theo kế hoạch định sẵn.",
+    "weakness": "Họ thường gặp khó khi phải thay đổi hoặc thích nghi nhanh với môi trường mới. Xu hướng làm việc theo khuôn mẫu khiến ISTJ có thể đánh mất sự linh hoạt hoặc tỏ ra khắt khe với người khác. Việc kết nối cảm xúc cũng không phải sở trường, dễ tạo khoảng cách trong giao tiếp cá nhân hoặc nhóm.",
+    "specialty": "ISTJ có khả năng duy trì cấu trúc, lên kế hoạch rõ ràng và đảm bảo từng phần công việc được kiểm soát chặt chẽ. Họ là người lý tưởng cho các vai trò giám sát, kiểm định hoặc đảm bảo chất lượng, nơi cần sự chính xác và hệ thống làm việc rõ ràng, ổn định.",
+    "career": "ISTJ phát triển tốt trong các ngành đòi hỏi tổ chức, kỷ luật và quy trình như kế toán, luật, hành chính, kỹ thuật hoặc quản lý vận hành. Họ không thích môi trường quá linh động hay thiếu cấu trúc rõ ràng, và thường tránh những công việc đòi hỏi sự sáng tạo không giới hạn hay quá nhiều yếu tố bất ngờ.",
+    "challenge": "Việc bước ra khỏi vùng an toàn là điều không dễ với ISTJ. Họ dễ bị áp lực khi phải thay đổi thói quen hoặc hệ thống quen thuộc. Khả năng phát triển của họ sẽ được nâng cao nếu họ học cách linh hoạt, cởi mở hơn với cách làm mới và chấp nhận rằng không phải lúc nào mọi việc cũng theo đúng kế hoạch.",
+    "group_role": "ISTJ là người giữ ổn định trong nhóm, thường đảm nhận các nhiệm vụ hậu cần, tổ chức hoặc giám sát tiến độ. Họ không thích sự rườm rà hay bất ổn, nên thường tìm cách giữ mọi thứ trong khuôn khổ. Dù không phải người sôi nổi, nhưng họ được tin tưởng nhờ sự nghiêm túc, chính xác và đáng tin cậy trong công việc.",
+    "concern": "ISTJ thường lo lắng về việc không hoàn thành trách nhiệm hoặc làm sai quy trình. Họ cũng dễ căng thẳng nếu bị yêu cầu thay đổi quá nhanh hoặc làm việc trong môi trường thiếu tổ chức. Ngoài ra, nỗi lo bị đánh giá là thiếu hiệu quả hoặc không đáng tin có thể khiến họ tự tạo áp lực lớn, ảnh hưởng đến sự linh hoạt và khả năng thư giãn.",
+    "famous_people": [
+      "George Washington",
+      "Jeff Bezos",
+      "Henry Ford"
+    ]
+  },
+  {
+    "type": "ENFP",
+    "color": "#33a474",
+    "full_name": "Extraverted Intuitive Feeling Perceiving",
+    "description": "ENFP là những người giàu trí tưởng tượng, cởi mở và truyền cảm hứng. Họ nhìn thế giới bằng sự tò mò không ngừng, luôn tìm kiếm những khả năng mới mẻ để khám phá. Với năng lượng tích cực và sự kết nối cảm xúc sâu sắc, ENFP thường tạo ra ảnh hưởng tích cực trong môi trường sáng tạo và linh hoạt, nơi họ có thể tự do phát triển cá nhân.",
+    "strength": "ENFP có khả năng kết nối với người khác một cách tự nhiên, dễ dàng lan tỏa sự nhiệt tình và lạc quan. Họ sáng tạo, nhiều ý tưởng và luôn tìm ra những cách tiếp cận mới cho vấn đề. Tuy nhiên, chính sự đa dạng này đôi khi khiến họ thiếu kiên định, dễ phân tán hoặc bỏ dở kế hoạch giữa chừng. Họ cũng có xu hướng tránh xung đột, dẫn đến việc không giải quyết triệt để các vấn đề trong mối quan hệ.",
+    "weakness": "ENFP thường khó duy trì sự tập trung dài hạn, hay thay đổi ý tưởng và dễ bị cuốn vào nhiều thứ cùng lúc. Họ cũng nhạy cảm với lời phê bình, dễ bị ảnh hưởng cảm xúc khi không được công nhận. Sự bốc đồng và mong muốn trải nghiệm mới đôi khi khiến họ khó ổn định hoặc duy trì cam kết với một con đường cụ thể.",
+    "specialty": "ENFP có tài nhìn thấy tiềm năng trong mọi người và mọi việc, truyền cảm hứng để người khác phát triển. Họ sáng tạo không giới hạn, linh hoạt trong tư duy và thường là nguồn động lực đổi mới trong nhóm hoặc tổ chức. Họ giỏi khám phá những điều chưa ai nghĩ tới và khuyến khích người khác dám theo đuổi ước mơ của mình.",
+    "career": "ENFP phù hợp với những nghề cho phép họ tự do thể hiện và kết nối cảm xúc như truyền thông, nghệ thuật, giáo dục, tư vấn, tâm lý hoặc marketing. Họ không phù hợp với những công việc máy móc, lặp lại hoặc môi trường quá cứng nhắc. ENFP cần được làm việc trong không gian sáng tạo, cởi mở và có cơ hội tương tác với người khác.",
+    "challenge": "Giữ vững cam kết lâu dài là điều khó khăn với ENFP. Sự yêu thích khám phá khiến họ dễ bị hấp dẫn bởi điều mới và nhanh chóng mất hứng với kế hoạch đang làm. Việc học cách kiên trì, chọn lọc mục tiêu để theo đuổi đến cùng sẽ giúp họ phát triển bền vững hơn thay vì chỉ sống trong cảm hứng thoáng qua.",
+    "group_role": "ENFP là chất xúc tác của tinh thần nhóm, luôn mang lại sự sôi nổi, lạc quan và khuyến khích sự kết nối chân thành. Họ giỏi tạo ý tưởng và khuấy động bầu không khí sáng tạo. Dù đôi khi thiếu kiên định hoặc chệch hướng mục tiêu, họ vẫn là nhân tố truyền cảm hứng mạnh mẽ, thúc đẩy tinh thần hợp tác và quan tâm đến cảm xúc của từng thành viên.",
+    "concern": "ENFP lo sợ sự tầm thường, bị giới hạn khả năng sáng tạo hoặc không sống đúng với bản chất của mình. Họ cũng e ngại mất đi sự kết nối sâu sắc với người khác và cảm thấy không được đánh giá đúng. Những lời chỉ trích hay sự thiếu ghi nhận từ môi trường xung quanh dễ khiến họ bất an, nghi ngờ giá trị bản thân.",
+    "famous_people": [
+      "Robin Williams",
+      "Tom Brady"
+    ]
+  },
+  {
+    "type": "ENTP",
+    "color": "#88619a",
+    "full_name": "Extraverted Intuitive Thinking Perceiving",
+    "description": "ENTP là những người nhanh trí, tràn đầy năng lượng và thích khám phá các ý tưởng mới. Họ yêu thích tranh luận, tư duy linh hoạt và luôn tìm cách thách thức chuẩn mực. Với tinh thần phiêu lưu trí tuệ, họ thường tạo ra môi trường sôi động và kích thích, nơi họ có thể thử nghiệm các khả năng và truyền cảm hứng cho người khác qua sự sáng tạo không ngừng.",
+    "strength": "ENTP nổi bật với khả năng suy nghĩ sáng tạo, giải quyết vấn đề linh hoạt và truyền đạt ý tưởng một cách hấp dẫn. Họ thích các cuộc tranh luận trí tuệ và không ngại đối đầu để tìm ra giải pháp tối ưu. Tuy nhiên, vì hứng thú với cái mới, họ dễ bỏ dở giữa chừng và thiếu sự kiên trì. Họ có thể làm người khác cảm thấy bị lấn át nếu quá tập trung vào lý luận, hoặc bỏ qua chi tiết vì mải mê theo đuổi ý tưởng lớn.",
+    "weakness": "ENTP dễ bị phân tán vì luôn tìm kiếm điều mới mẻ. Họ thường thiếu kiên định với kế hoạch dài hạn và có thể trở nên thiếu tổ chức. Họ không thích khuôn khổ hoặc sự ràng buộc, dẫn đến khó làm việc trong môi trường quá quy củ. Đôi khi, sự thích tranh luận của họ lại trở thành yếu điểm khi làm người khác khó chịu hoặc cảm thấy bị thách thức không cần thiết.",
+    "specialty": "ENTP có khả năng phát hiện cơ hội và mở ra những hướng đi mới trong mọi hoàn cảnh. Họ nhanh chóng nhìn ra tiềm năng trong ý tưởng chưa hoàn thiện, và có tài truyền cảm hứng để người khác dám nghĩ khác, làm khác. Trong môi trường động não hay khởi nghiệp, họ chính là người tạo đà đổi mới và gợi mở những đột phá bất ngờ.",
+    "career": "ENTP phù hợp với các nghề cần đổi mới và tư duy linh hoạt như marketing, truyền thông, tư vấn, công nghệ hay khởi nghiệp. Họ phát triển tốt trong môi trường không quá cứng nhắc, có tính cạnh tranh và cho phép họ thử nghiệm ý tưởng táo bạo. Họ không hợp với những công việc mang tính lặp lại hoặc thiếu thử thách trí tuệ, nơi mà sự sáng tạo không được phát huy.",
+    "challenge": "Tập trung vào một dự án lâu dài là điều khó khăn với ENTP. Họ dễ bị lôi kéo bởi cái mới và thiếu kiên nhẫn với những gì quen thuộc. Để trưởng thành và phát triển bền vững, ENTP cần học cách giữ cam kết, chấp nhận sự nhàm chán tạm thời và rèn luyện khả năng hoàn thành thay vì chỉ khởi đầu mạnh mẽ.",
+    "group_role": "ENTP là người khơi dậy ý tưởng, tạo cảm hứng và khuyến khích thảo luận trong nhóm. Họ mang đến không khí cởi mở, đầy sáng tạo và không ngại chất vấn những điều sẵn có. Tuy nhiên, vì ít chú trọng đến chi tiết hay việc triển khai, họ thường cần người hỗ trợ để đảm bảo kế hoạch được thực hiện đến cùng. Dù đôi khi tạo ra sự hỗn loạn nhẹ, ENTP vẫn được đánh giá cao nhờ khả năng thúc đẩy đổi mới và nhìn thấy tiềm năng ở mọi người.",
+    "concern": "ENTP sợ bị bó buộc trong môi trường nhàm chán, thiếu sáng tạo hoặc không được lắng nghe. Họ lo ngại đánh mất tiềm năng bản thân hoặc bỏ lỡ những cơ hội đáng giá. Họ cũng lo về việc không thể hiện thực hóa ý tưởng của mình, hoặc bị đánh giá là phi thực tế khi thách thức quy chuẩn. Nỗi sợ mất đi sự tự do tư duy khiến họ luôn tìm cách giữ cho mình một không gian mở để phát triển.",
+    "famous_people": [
+      "Thomas Edison",
+      "Leonardo da Vinci",
+      "Walt Disney"
+    ]
+  },
+  {
+    "type": "ENFJ",
+    "color": "#33a474",
+    "full_name": "Extraverted Intuitive Feeling Judging",
+    "description": "ENFJ là những người truyền cảm hứng, giàu lòng trắc ẩn và luôn hướng tới việc tạo ảnh hưởng tích cực đến người khác. Họ thường có trực giác mạnh về cảm xúc, giỏi kết nối, và thích dẫn dắt bằng sự đồng cảm và giá trị cá nhân. Với khả năng giao tiếp tự nhiên, ENFJ thường được tin tưởng trong vai trò cố vấn hoặc lãnh đạo, dù đôi khi họ có xu hướng đặt nhu cầu của người khác lên trên bản thân mình.",
+    "strength": "ENFJ nổi bật với khả năng thấu hiểu cảm xúc và thúc đẩy người khác phát triển. Họ giao tiếp chân thành, lôi cuốn và thường có vai trò kết nối trong cộng đồng hay nhóm làm việc. Tuy nhiên, chính vì quan tâm sâu sắc đến người khác, họ dễ kiệt sức nếu không biết tự chăm sóc bản thân. Họ cũng có thể quá kỳ vọng vào người khác hoặc khó buông bỏ trách nhiệm vì luôn muốn giúp đỡ.",
+    "weakness": "ENFJ có thể gặp khó khăn khi phải nói 'không' hoặc khi đối diện với xung đột. Họ dễ bị ảnh hưởng bởi cảm xúc của người xung quanh, đôi khi đến mức đánh mất ranh giới cá nhân. Họ cũng có xu hướng lý tưởng hóa mọi người và dễ thất vọng khi thực tế không như mong đợi. Nếu không được ghi nhận, họ có thể cảm thấy mình bị xem nhẹ dù đã cống hiến rất nhiều.",
+    "specialty": "ENFJ có tài truyền cảm hứng và hỗ trợ người khác phát triển toàn diện. Họ giỏi phát hiện tiềm năng cá nhân, tạo môi trường tích cực, từ đó thúc đẩy cả cảm xúc lẫn hiệu quả công việc. Sự nhạy bén về cảm xúc kết hợp với kỹ năng lãnh đạo giúp họ trở thành người thầy, người cố vấn, hay người lãnh đạo đầy cảm hứng và đáng tin cậy.",
+    "career": "ENFJ phù hợp với các nghề như giảng dạy, tư vấn, tâm lý học, nhân sự hay công tác xã hội – nơi họ có thể tương tác sâu sắc và tạo ra ảnh hưởng tích cực. Họ cần môi trường khuyến khích sự hợp tác và phát triển cá nhân, chứ không phải nơi cạnh tranh khốc liệt hay tách biệt cảm xúc. Công việc lý tưởng với họ là nơi vừa có mục tiêu chung rõ ràng, vừa mang lại cảm giác gắn bó và ý nghĩa.",
+    "challenge": "ENFJ thường phải học cách lùi lại để chăm sóc chính mình thay vì luôn cố gắng giúp đỡ người khác. Họ cần thiết lập ranh giới lành mạnh và chấp nhận rằng không thể làm hài lòng tất cả. Khi biết cách cân bằng giữa cho đi và bảo vệ bản thân, họ có thể duy trì sức ảnh hưởng lâu dài một cách bền vững và hạnh phúc hơn.",
+    "group_role": "ENFJ là người lãnh đạo tình cảm và cầu nối trong nhóm. Họ quan tâm sâu sắc đến cảm xúc của mọi người, tạo ra không khí tích cực và thúc đẩy sự hợp tác. Họ biết cách hòa giải, khích lệ và hướng nhóm tới mục tiêu chung một cách hài hòa. Tuy nhiên, vì quá để tâm đến người khác, họ có thể làm việc quá sức hoặc lấn át ý kiến cá nhân để duy trì hòa khí.",
+    "concern": "ENFJ lo ngại rằng họ không đủ tốt hoặc không làm tròn trách nhiệm với người khác. Họ sợ bị hiểu lầm, bị từ chối hoặc không được ghi nhận. Họ cũng sợ không thể tạo ra ảnh hưởng tích cực như mong muốn, dẫn đến cảm giác thất vọng hoặc nghi ngờ giá trị bản thân. Nỗi lo bị mất kết nối hoặc gây tổn thương đến những người mình yêu quý khiến họ thường xuyên tự đặt áp lực cao lên chính mình.",
+    "famous_people": [
+      "Barack Obama",
+      "Ben Affleck",
+      "Joe Biden"
+    ]
+  },
+  {
+    "type": "ENTJ",
+    "color":  "#88619a",
+    "full_name": "Extraverted Intuitive Thinking Judging",
+    "description": "ENTJ là những người có tư duy chiến lược, quyết đoán và đầy tham vọng. Họ yêu thích việc thiết lập mục tiêu lớn và lãnh đạo người khác hướng đến thành công. ENTJ đề cao hiệu quả và luôn muốn tạo ra tác động rõ rệt trong bất kỳ môi trường nào họ tham gia. Họ giao tiếp mạnh mẽ, thích kiểm soát, và thường truyền cảm hứng bằng sự tự tin cùng tầm nhìn rõ ràng, dù đôi lúc có thể bỏ qua yếu tố cảm xúc trong các mối quan hệ.",
+    "strength": "ENTJ có khả năng lãnh đạo tự nhiên, giỏi tổ chức và định hướng mục tiêu rõ ràng. Họ nhanh nhạy trong việc ra quyết định, biết thúc đẩy bản thân và người khác cùng phát triển. Nhờ tư duy logic và chiến lược, họ giải quyết vấn đề hiệu quả, đồng thời tạo ảnh hưởng mạnh mẽ bằng sự quả quyết và tinh thần cầu tiến.",
+    "weakness": "Tuy hiệu quả, ENTJ có thể trở nên độc đoán, ít kiên nhẫn và dễ coi nhẹ cảm xúc của người khác. Họ có xu hướng áp đặt ý kiến, đôi khi khiến môi trường làm việc căng thẳng. Họ cũng khó chia sẻ điểm yếu cá nhân, và có thể bỏ qua nhu cầu tinh thần của người xung quanh khi mải theo đuổi mục tiêu lớn.",
+    "specialty": "ENTJ đặc biệt giỏi xây dựng kế hoạch dài hạn và dẫn dắt đội ngũ đến kết quả rõ ràng. Họ là động lực thay đổi, biết khơi gợi tiềm năng ở người khác và thường tạo ra môi trường cạnh tranh tích cực. Khả năng tạo cấu trúc và thúc đẩy hành động khiến họ là những nhà lãnh đạo hiệu quả cả trong công việc lẫn cuộc sống.",
+    "career": "ENTJ phù hợp với các ngành yêu cầu quản lý, chiến lược và ra quyết định như kinh doanh, luật, tư vấn hay điều hành. Họ phát triển mạnh trong môi trường chuyên nghiệp, áp lực cao và rõ ràng về mục tiêu. Tuy nhiên, những công việc thiếu cấu trúc hoặc hạn chế vai trò lãnh đạo thường khiến họ chán nản.",
+    "challenge": "Thách thức lớn với ENTJ là học cách kết hợp giữa hiệu suất và sự thấu cảm. Việc tập trung quá nhiều vào kết quả có thể khiến họ vô tình xa cách với người khác. Rèn luyện sự kiên nhẫn và đồng cảm giúp ENTJ không chỉ đạt được thành công mà còn xây dựng được các mối quan hệ bền vững.",
+    "group_role": "Trong nhóm, ENTJ thường là người dẫn đầu, tạo định hướng và giữ cho tiến độ luôn đúng hướng. Họ giỏi phân công công việc và khơi dậy tinh thần phấn đấu. Tuy nhiên, phong cách giao tiếp thẳng thắn và định hướng kết quả có thể gây áp lực cho người khác. Dù vậy, họ đánh giá cao sự cống hiến và thường truyền cảm hứng mạnh mẽ cho cả nhóm.",
+    "concern": "ENTJ thường lo sợ không đạt được mục tiêu lớn hoặc bị đánh giá là thiếu năng lực lãnh đạo. Họ dễ bị áp lực bởi sự cầu toàn và nỗi sợ thất bại, đặc biệt khi không thể thể hiện hết khả năng. Họ cũng lo ngại việc mất quyền kiểm soát hoặc không được công nhận đúng mức trong những nỗ lực lãnh đạo của mình.",
+    "famous_people": [
+      "Margaret Thatcher",
+      "Franklin D. Roosevelt",
+      "Steve Jobs"
+    ]
+  },
+  {
+    "type": "ESFJ",
+    "color": "#e4ae3a",
+    "full_name": "Extraverted Sensing Feeling Judging",
+    "description": "ESFJ là những người ấm áp, hướng ngoại và luôn quan tâm đến nhu cầu của người khác. Họ phát triển mạnh mẽ trong môi trường có cấu trúc rõ ràng và gắn bó cộng đồng. ESFJ thường đóng vai trò là người hỗ trợ, người tổ chức và người duy trì sự hài hòa trong nhóm. Họ coi trọng truyền thống, có trách nhiệm và luôn sẵn sàng giúp đỡ, dù đôi khi quá nhạy cảm với việc người khác nhìn nhận họ ra sao.",
+    "strength": "ESFJ giỏi kết nối với người khác, nhạy cảm với cảm xúc và luôn biết cách khiến mọi người cảm thấy được quan tâm. Họ là những người bạn tận tâm, đồng nghiệp đáng tin và thường chủ động xây dựng không khí tích cực. Họ rất có tổ chức và thực tế, biết cách điều phối công việc hoặc sự kiện một cách hiệu quả. Tuy nhiên, đôi khi sự phụ thuộc vào phản hồi của người khác khiến họ dễ bị tổn thương nếu không được công nhận.",
+    "weakness": "ESFJ dễ đặt cảm xúc và mong đợi của người khác lên trên chính mình, dẫn đến tình trạng bỏ quên nhu cầu cá nhân. Họ có thể sợ xung đột, né tránh các tình huống đối đầu dù điều đó cần thiết. Họ cũng dễ lo lắng về cách người khác nhìn nhận, trở nên quá phụ thuộc vào sự xác nhận từ bên ngoài. Việc đối mặt với sự thay đổi hoặc tình huống không rõ ràng có thể khiến họ cảm thấy lo lắng và không chắc chắn.",
+    "specialty": "ESFJ có khả năng tạo ra môi trường ấm cúng và gắn kết, là người làm cho tập thể cảm thấy thân thiện và có tổ chức. Họ giỏi lắng nghe, thấu hiểu cảm xúc và hỗ trợ người khác một cách thiết thực. Với trí tuệ xã hội mạnh, họ dễ dàng điều hướng các mối quan hệ và tạo cảm giác tin cậy. Họ là người kết nối và chăm sóc tự nhiên, giúp giữ vững sự ổn định và tinh thần tích cực trong nhóm hay gia đình.",
+    "career": "ESFJ phù hợp với những nghề đòi hỏi sự tương tác, chăm sóc và tổ chức như: giáo viên, y tá, nhân viên xã hội, tư vấn viên, hoặc quản lý hành chính. Họ thích môi trường có quy tắc rõ ràng, mục tiêu cụ thể và có thể nhìn thấy tác động trực tiếp từ sự hỗ trợ của mình. ESFJ không phù hợp với những công việc cô lập, ít giao tiếp hoặc quá nhiều thay đổi bất ngờ.",
+    "challenge": "ESFJ cần học cách cân bằng giữa việc chăm sóc người khác và quan tâm đến chính mình. Họ thường thấy có lỗi nếu không thể giúp tất cả mọi người, hoặc nếu đặt nhu cầu bản thân lên trước. Việc thiết lập ranh giới và chấp nhận rằng họ không thể làm hài lòng tất cả là bước quan trọng để tránh kiệt sức. Khi biết tự chăm sóc, họ sẽ duy trì được năng lượng và lòng nhiệt huyết dài lâu.",
+    "group_role": "ESFJ là người kiến tạo không khí tích cực trong nhóm. Họ quan tâm đến cảm xúc tập thể, thường chủ động hòa giải, động viên và đảm bảo không ai bị bỏ lại phía sau. Họ giỏi tổ chức, đảm nhận vai trò hỗ trợ hoặc điều phối và luôn theo sát các chi tiết thực tế. Dù không thích xung đột, họ có thể kiên định nếu điều đó giúp duy trì sự hòa hợp chung. Nhờ sự quan tâm thật lòng và kỹ năng giao tiếp, họ dễ dàng trở thành người được yêu mến và tin tưởng trong nhóm.",
+    "concern": "ESFJ thường lo sợ bị từ chối, không được đánh giá cao hoặc không thể duy trì các mối quan hệ hòa hợp. Họ sợ làm người khác thất vọng, đặc biệt là những người mà họ yêu thương và đã hỗ trợ. Họ cũng có thể lo lắng về hình ảnh của bản thân trong mắt người khác, và cảm thấy không an toàn khi bị chỉ trích. Nỗi sợ không thể “làm tròn vai” khiến họ tự áp lực và dễ quên mất nhu cầu của chính mình.",
+    "famous_people": [
+      "Taylor Swift",
+      "Jennifer Garner",
+      "Bill Clinton"
+    ]
+  },
+  {
+    "type": "ESTJ",
+    "color": "#4298b4",
+    "full_name": "Extraverted Sensing Thinking Judging",
+    "description": "ESTJ là những người thực tế, có tổ chức và thích sự rõ ràng, trật tự. Họ thường nổi bật trong vai trò lãnh đạo nhờ đạo đức nghề nghiệp mạnh mẽ và khả năng thực thi hiệu quả. ESTJ coi trọng truyền thống và trách nhiệm, luôn ưu tiên các phương pháp đã được chứng minh. Họ thẳng thắn, quyết đoán và thích làm việc trong môi trường ổn định, dù đôi khi có thể gặp khó khăn với những thay đổi bất ngờ hoặc thiếu cấu trúc.",
+    "strength": "ESTJ rất giỏi tổ chức, định hướng và kiểm soát tình huống. Họ là người lãnh đạo tin cậy, có khả năng sắp xếp công việc, đưa mọi việc vào quy trình hiệu quả. Sự quyết đoán và cam kết cao giúp họ hoàn thành nhiệm vụ một cách chắc chắn và đúng thời hạn. Tinh thần trách nhiệm và tính kỷ luật cao khiến họ được đánh giá là trụ cột trong cộng đồng hoặc nơi làm việc.",
+    "weakness": "Tuy hiệu quả, ESTJ có thể cứng nhắc và thiếu linh hoạt, nhất là khi đối mặt với thay đổi. Họ thường đặt tiêu chuẩn cao và kỳ vọng người khác phải tuân thủ, dễ dẫn đến thất vọng nếu kết quả không như mong đợi. Họ cũng có xu hướng gạt bỏ yếu tố cảm xúc, tập trung vào kết quả và trật tự, điều này đôi khi tạo khoảng cách trong các mối quan hệ.",
+    "specialty": "ESTJ có tài năng vượt trội trong việc tạo lập hệ thống, thiết lập mục tiêu và tổ chức con người. Họ là người điều phối xuất sắc, biết cách phân bổ nguồn lực và đảm bảo tiến độ. Tư duy thực tế và đạo đức nghề nghiệp mạnh mẽ giúp họ trở thành người lãnh đạo ổn định và có sức ảnh hưởng lớn trong tập thể.",
+    "career": "ESTJ phù hợp với các ngành cần sự kiểm soát, kỷ luật và lãnh đạo như quản lý, quân đội, hành chính công, hoặc luật pháp. Họ phát triển trong môi trường có quy tắc rõ ràng và cơ cấu tổ chức chắc chắn. Tuy nhiên, những công việc thiếu định hướng hoặc thiếu vai trò điều phối có thể khiến họ cảm thấy lạc lõng và kém động lực.",
+    "challenge": "ESTJ thường gặp khó khăn trong việc chấp nhận thay đổi hoặc các cách tiếp cận không quen thuộc. Sự phụ thuộc vào cấu trúc đôi khi khiến họ phản ứng tiêu cực với tình huống không chắc chắn. Để thích nghi tốt hơn, họ cần học cách linh hoạt và chấp nhận rằng không phải lúc nào mọi thứ cũng theo kế hoạch.",
+    "group_role": "Trong nhóm, ESTJ nổi bật ở vai trò lãnh đạo nhờ vào khả năng tổ chức và theo sát tiến độ. Họ giữ cho mọi người làm việc có kỷ luật và hướng tới mục tiêu chung. Giao tiếp rõ ràng, trực tiếp giúp họ duy trì trật tự và hiệu quả, dù đôi khi có thể khiến người khác thấy quá nghiêm khắc. Tuy vậy, họ luôn đáng tin cậy và sẵn sàng chịu trách nhiệm cao.",
+    "concern": "ESTJ thường lo sợ không hoàn thành trách nhiệm hoặc bị xem là kém hiệu quả. Họ lo ngại mất kiểm soát hoặc quyền ra quyết định trong các tình huống quan trọng. Họ cũng dễ căng thẳng nếu người khác không tuân thủ quy tắc hoặc nếu họ không thể bảo vệ hay chăm lo cho người thân như mong muốn.",
+    "famous_people": [
+      "Hillary Clinton",
+      "Soyeon (G)I-DLE",
+      "Gordon Ramsay"
+    ]
+  },
+  {
+    "type": "ESFP",
+    "color": "#e4ae3a",
+    "full_name": "Extraverted Sensing Feeling Perceiving",
+    "description": "ESFP là những người sôi nổi, hòa đồng và sống động, thường tỏa ra năng lượng tích cực trong mọi tình huống. Họ yêu thích các trải nghiệm thực tế, sống trọn trong hiện tại và thường tìm kiếm niềm vui cũng như sự kết nối với người khác. Với tính cách tự phát, họ có xu hướng linh hoạt hơn là tuân theo kế hoạch cứng nhắc. Sự đồng cảm và lòng trắc ẩn giúp họ dễ dàng lan tỏa sự ấm áp và tạo nên bầu không khí thân thiện.",
+    "strength": "ESFP nổi bật nhờ tính cách vui vẻ, cởi mở và khả năng kết nối mạnh mẽ với người khác. Họ có thể khiến mọi người cảm thấy được chào đón và luôn tìm cách mang lại trải nghiệm sống động, thú vị. Luôn hòa hợp với khoảnh khắc hiện tại, họ nhanh nhạy trong việc ứng phó và sáng tạo, đặc biệt là trong các tình huống mang tính xã hội hoặc cảm xúc.",
+    "weakness": "Tuy sống động, ESFP có thể quá chú trọng đến khoái lạc hiện tại mà bỏ qua mục tiêu dài hạn. Họ dễ bị xao nhãng và thiếu kiên trì, đôi khi né tránh những tình huống cảm xúc phức tạp. Sự nhạy cảm của họ cũng khiến họ dễ tổn thương khi bị phê bình hoặc không được đánh giá cao, khiến họ có thể phản ứng một cách cảm tính.",
+    "specialty": "ESFP có khả năng tự nhiên trong việc tạo dựng kết nối cảm xúc và làm cho người khác cảm thấy vui vẻ, được quan tâm. Tư duy sáng tạo, tinh thần tự do và cách họ thể hiện bản thân giúp họ mang lại cảm hứng cho môi trường xung quanh. Họ đặc biệt giỏi trong việc lan tỏa bầu không khí tích cực và khuyến khích người khác tận hưởng cuộc sống.",
+    "career": "Họ phù hợp với các công việc thiên về tương tác, năng động và có yếu tố giải trí, như nghệ thuật, trình diễn, bán hàng, dịch vụ khách hàng. Những vai trò cho phép họ thể hiện cá tính và làm việc gần gũi với người khác sẽ giúp họ phát triển mạnh mẽ. Ngược lại, họ dễ thấy mệt mỏi trong các môi trường khô khan, thiếu kết nối xã hội hoặc quá máy móc.",
+    "challenge": "Một trong những thách thức lớn của ESFP là học cách đối mặt với khó khăn về mặt cảm xúc thay vì né tránh. Họ cần rèn luyện khả năng xử lý các tình huống nghiêm túc một cách chủ động và sâu sắc hơn, nhằm phát triển nội lực và xây dựng những mối quan hệ bền vững hơn.",
+    "group_role": "Trong nhóm, ESFP mang lại năng lượng, niềm vui và sự lạc quan, giúp nâng cao tinh thần và gắn kết mọi người. Họ thích hành động thực tế và có xu hướng tập trung vào việc tạo ra trải nghiệm tích cực cho cả nhóm. Dù không luôn giỏi lên kế hoạch dài hạn, họ rất linh hoạt và ứng biến tốt với hoàn cảnh thay đổi, làm tăng sự hiệu quả trong những tình huống cần phản ứng nhanh.",
+    "concern": "ESFP thường lo sợ việc đánh mất niềm vui sống hoặc bị ngắt kết nối khỏi những người họ yêu quý. Họ dễ lo lắng nếu cảm thấy bị từ chối hoặc không được công nhận vì sự tự phát của mình. Họ cũng trăn trở về việc có thực sự để lại dấu ấn tích cực và ý nghĩa trong cuộc sống của người khác hay không.",
+    "famous_people": [
+      "Justin Bieber",
+      "Lisa (BLACKPINK)",
+      "Cristiano Ronaldo"
+    ]
+  },
+  {
+    "type": "ESTP",
+    "color": "#4298b4",
+    "full_name": "Extraverted Sensing Thinking Perceiving",
+    "description": "ESTPs là những người năng động, linh hoạt và sống hết mình với hiện tại. Họ phát triển trong môi trường có nhịp độ nhanh, nơi hành động thực tế được ưu tiên hơn lý thuyết. Với sự tự tin và quyến rũ, họ thường nổi bật trong các tình huống xã hội và thích trải nghiệm mới, dù đôi khi có thể bỏ qua hậu quả lâu dài để theo đuổi cảm giác phấn khích trước mắt.",
+    "strength": "ESTPs suy nghĩ nhanh, dễ thích nghi và luôn sẵn sàng hành động. Họ có khả năng xử lý các tình huống bất ngờ với phản xạ nhanh và tinh thần thực tế. Tính cách hòa đồng và vui vẻ giúp họ dễ tạo thiện cảm, còn sự tháo vát khiến họ trở thành người giải quyết vấn đề hiệu quả trong môi trường áp lực cao.",
+    "weakness": "ESTPs dễ bị hấp dẫn bởi khoái cảm tức thời và có thể hành động bốc đồng, thiếu cân nhắc đến hậu quả lâu dài. Họ thường né tránh trách nhiệm hay kế hoạch dài hạn vì cảm thấy bị giới hạn bởi cấu trúc và quy tắc. Ngoài ra, họ có thể thiếu nhạy cảm với cảm xúc người khác, dễ gây hiểu lầm trong giao tiếp.",
+    "specialty": "Khả năng xoay chuyển linh hoạt và phản ứng tức thì giúp ESTPs xử lý tốt các thử thách mang tính thực tế. Họ luôn nhìn thấy cơ hội trong rủi ro, biến những tình huống căng thẳng thành động lực phát triển. Dù trong công việc hay đời sống xã hội, họ giỏi khơi dậy hứng thú và mang lại cảm hứng hành động cho người khác.",
+    "career": "ESTPs phù hợp với các nghề nghiệp đòi hỏi phản ứng nhanh, tư duy thực tiễn và có yếu tố rủi ro như kinh doanh, bán hàng, tiếp thị, cứu hộ, thể thao. Họ cần môi trường đa dạng, linh hoạt, không quá bó buộc để phát huy tính cách hướng ngoại và ưa thích hành động của mình. Các nghề chậm rãi, nhiều thủ tục thường khiến họ mất động lực.",
+    "challenge": "Với ESTP, việc dừng lại để suy xét và có trách nhiệm với quyết định của mình là một thử thách. Họ cần học cách cân bằng giữa nhu cầu hành động và tư duy dài hạn, nhằm tránh những hậu quả không mong muốn và phát triển bền vững hơn trong cuộc sống cũng như sự nghiệp.",
+    "group_role": "ESTPs mang lại sự sôi nổi, tự tin và tinh thần hành động cho nhóm. Họ giỏi giải quyết tình huống thực tế và đưa ra quyết định nhanh chóng, thường trở thành linh hồn của tập thể. Dù đôi khi họ thiếu kiên nhẫn với quy trình dài hạn, khả năng giao tiếp và lãnh đạo theo kiểu trực tiếp giúp nhóm duy trì sự linh hoạt và hiệu quả.",
+    "concern": "ESTPs lo lắng việc bị gò bó bởi trách nhiệm hay bỏ lỡ cơ hội khám phá điều mới. Họ sợ bị mắc kẹt trong sự nhàm chán hoặc không còn cảm thấy phấn khích với cuộc sống. Ngoài ra, họ cũng nhạy cảm với cách người khác đánh giá hành động của mình, đặc biệt là khi bị coi là liều lĩnh hay thiếu trách nhiệm.",
+    "famous_people": [
+      "Donald Trump",
+      "Dwayne Johnson",
+      "Tom Cruise"
+    ]
+  }
+]

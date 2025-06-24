@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-image: linear-gradient(135deg, #f5faff, #e0f7ff);
+}
+
+.blue-text {
+  color: #7FBFFF;
+}
+
+@layer components {
+    .blob {
+        @apply absolute w-[300px] h-[300px] bg-[#c5dFFF] rounded-full blur-[100px] blur-lg;
+    }
+}
