@@ -188,7 +188,7 @@ function Test() {
                                     exit={{opacity: 0, y: 0, transition: {delay: 0.1, duration: 1}}}
                                     className={'text-xl text-shadow-sm'}>
                                     Trả lời theo quan điểm, cảm nhận và trải nghiệm của bạn, mỗi câu trả lời
-                                    dài khoảng 50-300 ký tự.
+                                    dài khoảng 25-300 ký tự.
                                 </motion.h4>
                             </motion.div>
                         }
@@ -216,11 +216,11 @@ function Test() {
                                         type="text"
                                         placeholder="Nhập câu trả lời của bạn..."
                                         value={answer}
-                                        minLength={50}
+                                        minLength={25}
                                         maxLength={300}
                                         onChange={(e) => {
                                             setAnswer(e.target.value);
-                                            if (e.target.value.length < 50) {
+                                            if (e.target.value.length < 25) {
                                                 setCharError(true);
                                             } else {
                                                 setCharError(false);
@@ -229,7 +229,7 @@ function Test() {
                                     />
                                     <div className={'mt-2 text-sm text-gray-500'}>
                                         {answer.length}/300 ký tự {charError &&
-                                        <span className={'text-red-500 ml-2 opacity-70'}> (Cần ít nhất 50 ký tự)</span>}
+                                        <span className={'text-red-500 ml-2 opacity-70'}> (Cần ít nhất 25 ký tự)</span>}
                                     </div>
                                 </motion.div>
                                 <motion.div
