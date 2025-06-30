@@ -77,7 +77,7 @@ function Landing() {
                 className={'blob -bottom-0 left-60 opacity-20 overflow-hidden'}/>
             <footer
                 className="fixed bottom-4 left-0 w-full text-center text-sm text-slate-400 opacity-70 select-none pointer-events-none">
-                © 2025 CS115 Project. Made with <span className="inline-block animate-bounce">☁️</span>
+                © 2025 CS117 Project. Made with <span className="inline-block animate-bounce">☁️</span>
             </footer>
         </>
     )

@@ -32,31 +32,19 @@ function Result({result}) {
         }, 1000);
     }, [result])
     const handleNextInfo = () => {
-        if (mouseDisabledRef.current) return;
-        setMouseDisabled(true);
-        mouseDisabledRef.current = true;
         setShowInfo(false);
         setTimeout(() => {
             setCurrentIndex(prevIndex => (prevIndex + 1) % infoFields.length);
             setShowInfo(true);
-        }, 1100);
-        setTimeout(() => {
-            setMouseDisabled(false);
-            mouseDisabledRef.current = false;
-        }, 2100);
+        }, 600);
     };
-
-    useEffect(() => {
-        const handleClick = () => {
-            handleNextInfo();
-        };
-        document.addEventListener('click', handleClick);
-        return () => {
-            document.removeEventListener('click', handleClick);
-        };
-    }, []);
-
-
+    const handlePrevInfo = () => {
+        setShowInfo(false);
+        setTimeout(() => {
+            setCurrentIndex(prevIndex => (prevIndex - 1 + infoFields.length) % infoFields.length);
+            setShowInfo(true);
+        }, 600);
+    }
     return (
         <>
         <motion.div
@@ -75,8 +63,11 @@ function Result({result}) {
                 {showInfo && (
                     <motion.div
                         initial={{opacity: 0,}}
-                        animate={{opacity: 1, transition: {duration: 1}}}
-                        exit={{opacity: 0, transition: {duration: 1}}}
+                        animate={{opacity: 1, transition: {type: 'spring', duration: 1}}}
+                        exit={{opacity: 0, transition: {type: 'spring', duration: 1}}}
+                    >
+
+                    <motion.div
                         className={'mt-4 w-3xl text-center'}>
                         <h3 className={'text-3xl font-bold text-gray-700 mb-2'}>
                             {infoTitles[currentIndex]}
@@ -85,17 +76,25 @@ function Result({result}) {
                             {data ? data[infoFields[currentIndex]] : 'Không có thông tin.'}
                         </p>
                     </motion.div>
-                )}
-                {!mouseDisabled && (
 
-                    <motion.div
-                        initial={{opacity: 0}}
-                        animate={{opacity: 0.4, transition: {duration: 0.4}}}
-                        exit={{opacity: 0, transition: {duration: 0.4}}}
-                        className={'text-gray-900 text-center absolute bottom-1/3 left-1/2 transform -translate-x-1/2 pointer-events-none'}>
-                        {'>>>'}
+                    <div className={'navigation-buttons flex items-center justify-center mt-4'}>
+                        <motion.button
+                            className={'bg-[#7FBFFF] text-white font-bold py-2 px-4 rounded-full mr-4 hover:bg-[#6FAFD0] transition-colors duration-300 cursor-pointer'}
+                            onClick={handlePrevInfo}
+                            whileHover={{scale: 1.05}}
+                            whileTap={{scale: 0.95}}>
+                            Trước
+                        </motion.button>
+                        <motion.button
+                            className={'bg-[#7FBFFF] text-white font-bold py-2 px-4 rounded-full hover:bg-[#6FAFD0] transition-colors duration-300 cursor-pointer'}
+                            onClick={handleNextInfo}
+                            whileHover={{scale: 1.05}}
+                            whileTap={{scale: 0.95}}>
+                            Tiếp theo
+                        </motion.button>
+                    </div>
                     </motion.div>
-                )}
+            )}
             </AnimatePresence>
         </>
     )
@@ -107,6 +106,7 @@ function Test() {
     const [questionIndex, setQuestionIndex] = useState(0);
     const [charError, setCharError] = useState(true);
     const [answer, setAnswer] = useState('');
+    const [wordCount, setWordCount] = useState(0);
     const [finalSentence, setFinalSentence] = useState('');
     const [showResult, setShowResult] = useState(false);
     const [result, setResult] = useState('');
@@ -139,11 +139,23 @@ function Test() {
                 setShowQuestions(true);
                 setCharError(true);
                 setAnswer('');
+                setWordCount(0);
             } else {
                 handlePredict(finalSentence);
                 setShowQuestions(false);
             }
         }, 1100);
+    }
+    const onAnswerChange = (e) => {
+        const input = e.target.value;
+        setAnswer(input);
+        const length = input.split(' ').filter(word => word.length > 0).length
+        setWordCount(length);
+        if (length < 10) {
+            setCharError(true);
+        } else {
+            setCharError(false);
+        }
     }
     useEffect(() => {
         setTimeout(
@@ -176,7 +188,7 @@ function Test() {
                                     animate={{
                                         opacity: 1,
                                         y: 0,
-                                        transition: {type: 'spring', delay: 0.1, duration: 1.5}
+                                        transition: {type: 'spring', delay: 0.1, duration: 1}
                                     }}
                                     exit={{opacity: 0, y: 0, transition: {delay: 0.1, duration: 1}}}
                                     className={'text-4xl font-black text-shadow-sm '}>
@@ -184,11 +196,11 @@ function Test() {
                                 </motion.h1>
                                 <motion.h4
                                     initial={{opacity: 0, y: 0}}
-                                    animate={{opacity: 1, y: 0, transition: {delay: 1.5, duration: 0.7}}}
-                                    exit={{opacity: 0, y: 0, transition: {delay: 0.1, duration: 1}}}
+                                    animate={{opacity: 1, y: 0, transition: {delay: 1, duration: 0.7}}}
+                                    exit={{opacity: 0, y: 0, transition: {delay: 0.1, duration: 0.7}}}
                                     className={'text-xl text-shadow-sm'}>
                                     Trả lời theo quan điểm, cảm nhận và trải nghiệm của bạn, mỗi câu trả lời
-                                    dài khoảng 25-300 ký tự.
+                                    bao gồm ít nhất 10 từ.
                                 </motion.h4>
                             </motion.div>
                         }
@@ -198,8 +210,8 @@ function Test() {
                             <div className={'w-fit flex flex-col items-center justify-center'}>
                                 <motion.h1
                                     initial={{opacity: 0,}}
-                                    animate={{opacity: 1, transition: {type: 'spring', delay: 0.1, duration: 1.5}}}
-                                    exit={{opacity: 0, transition: {duration: 1}}}
+                                    animate={{opacity: 1, transition: {type: 'spring', duration: 1.5}}}
+                                    exit={{opacity: 0, transition: {type: 'spring', duration: 1.5}}}
                                     className={'text-2xl font-black text-shadow-sm text-gray-600'}>
                                     {questionSet[questionIndex]}
                                 </motion.h1>
@@ -209,33 +221,28 @@ function Test() {
                                                 opacity: 1,
                                                 transition: {type: 'spring', delay: 0.4, duration: 1}
                                             }}
-                                            exit={{opacity: 0, transition: {duration: 1}}}>
-                                    <motion.input
+                                            exit={{opacity: 0, transition: {type: 'spring', duration: 1}}}>
+                                    <motion.textarea
                                         id={'answer-input'}
-                                        className={'mt-4 p-2 border border-gray-400 rounded-lg w-full'}
+                                        className={'mt-4 p-2 border border-gray-400 rounded-lg w-full h-25 resize-none focus:outline-none focus:ring-2 focus:ring-[#7FBFFF] focus:border-transparent text-gray-700'}
                                         type="text"
                                         placeholder="Nhập câu trả lời của bạn..."
                                         value={answer}
                                         minLength={25}
-                                        maxLength={300}
-                                        onChange={(e) => {
-                                            setAnswer(e.target.value);
-                                            if (e.target.value.length < 25) {
-                                                setCharError(true);
-                                            } else {
-                                                setCharError(false);
-                                            }
-                                        }}
+                                        onChange={(e) => onAnswerChange(e)}
                                     />
                                     <div className={'mt-2 text-sm text-gray-500'}>
-                                        {answer.length}/300 ký tự {charError &&
-                                        <span className={'text-red-500 ml-2 opacity-70'}> (Cần ít nhất 25 ký tự)</span>}
+                                        {wordCount < 10 && (
+                                            <span className={'text-red-500 font-semibold'}>
+                                                Bạn cần nhập ít nhất 10 từ.
+                                            </span>
+                                        )}
                                     </div>
                                 </motion.div>
                                 <motion.div
                                     initial={{opacity: 0}}
                                     animate={{opacity: 1, transition: {type: 'spring', delay: 0.4, duration: 1}}}
-                                    exit={{opacity: 0, transition: {duration: 1}}}
+                                    exit={{opacity: 0, transition: {type: 'spring', duration: 1}}}
                                     className={`${charError ? 'pointer-events-none border-gray-300 text-gray-300 text-shadow-2xs' : 'cursor-pointer border-[#7FBFFF] text-slate-700 text-shadow-sm'} mt-2 p-2 w-48 text-center text-lg font-bold px-6 rounded-full bg-transparent border-2 hover:bg-[#7FBFFF] hover:text-white transition-colors duration-300 ease-in-out`}
                                     onClick={handleNextQuestion}>
                                     Tiếp tục
@@ -260,7 +267,7 @@ function Test() {
                 className={'blob -bottom-0 left-60 opacity-20 overflow-hidden'}/>
             <footer
                 className="fixed bottom-4 left-0 w-full text-center text-sm text-slate-400 opacity-70 select-none pointer-events-none">
-                © 2025 CS115 Project. Made with <span className="inline-block animate-bounce">☁️</span>
+                © 2025 CS117 Project. Made with <span className="inline-block animate-bounce">☁️</span>
             </footer>
         </>
     );
