@@ -1,3 +1,10 @@
-# CS115 - Demo Project
+# CS117 -  Application Demo
 
-### will add readme later
+## 📊 Overview
+
+Demo of Final Project for our CS117 - Computational Thinking course. Focused problems are:
+- Predicting MBTI type based of an user's input (answers) to 10 questions.
+
+## 👥 Team Members
+
+
